@@ -5,6 +5,6 @@ function check() {
 }
 
 function reverseString(str) {
-    return.str.split("")
+    return str.split("").reverse().join()
     
 }
